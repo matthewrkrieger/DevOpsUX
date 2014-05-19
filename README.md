@@ -1,4 +1,4 @@
 DevOpsUX
 ========
 
-Examples for my DevOpsUX Presentation
+Check out the individual example folders for details
