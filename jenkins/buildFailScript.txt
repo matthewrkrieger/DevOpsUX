@@ -1,0 +1,1 @@
+/Users/matt/workspace/DevOpsUX/dashing-example/update-dashing-text.sh "Build $BUILD_DISPLAY_NAME of [$JOB_NAME] failed at `date`!"
