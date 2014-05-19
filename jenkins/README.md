@@ -1,5 +1,6 @@
 ## Scripts used for the jenkins demo  
-These are the demp build scripts for testing success/error conditions  
+These are the demp build scripts for testing success/error conditions.  
+All .txt files are used for Jenkins build and post-build calls.
   
 ## Jenkins Plugins
 Several Jenkins plugins are needed for this functionality, luckily they are super easy to install.  
