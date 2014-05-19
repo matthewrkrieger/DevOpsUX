@@ -7,4 +7,6 @@ Dashing can be picked up here: http://shopify.github.io/dashing/
 - Freeboard: https://freeboard.io/
 - Cyfe: http://www.cyfe.com/
   
-I highly recommend googling around for the right app that fits your needs
+I highly recommend googling around for the right app that fits your needs  
+  
+Atlassian Jira Case Study: http://blogs.atlassian.com/2010/10/case_study___taming_the_jira_42_bug_dragon/
