@@ -1,5 +1,6 @@
 ## Dashing  
-Dashing can be picked up here: http://shopify.github.io/dashing/
+Dashing can be picked up here: http://shopify.github.io/dashing/  
+And a whole bunch of pre-made widgets are here: https://github.com/Shopify/dashing/wiki/Additional-Widgets
 
 ## Paid Dashboard Apps (in no particular order)
 - Klipfolio: http://www.klipfolio.com/
